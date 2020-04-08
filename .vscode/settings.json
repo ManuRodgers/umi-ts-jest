@@ -1,0 +1,21 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#e74a39",
+    "activityBar.activeBackground": "#e74a39",
+    "activityBar.activeBorder": "#1ce32f",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#1ce32f",
+    "activityBarBadge.foreground": "#15202b",
+    "titleBar.activeBackground": "#d32c1a",
+    "titleBar.inactiveBackground": "#d32c1a99",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveForeground": "#e7e7e799",
+    "statusBar.background": "#d32c1a",
+    "statusBarItem.hoverBackground": "#e74a39",
+    "statusBar.foreground": "#e7e7e7",
+    "tab.activeBorder": "#e74a39"
+  },
+  "peacock.color": "#d32c1a",
+  "god.tsconfig": "./tsconfig.json"
+}
